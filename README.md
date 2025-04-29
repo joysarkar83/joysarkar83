@@ -9,12 +9,12 @@
 <h4>A 20 years old aspiring software developer, who's currently pursuing B.Tech in Electronics & Communication Engineering in IIIT Naya Raipur.</h4>
 
 <h5>
-I'm a curious coder on a journey through college life while diving deep into the exciting world of website development and DSA. When I'm not deciphering complex algorithms or tweaking user interfaces, I'm having fun and living life one line of code at a time. After all, **surviving college and learning DSA** is an adventure in itself!
+I'm a curious coder on a journey through college life while diving deep into the exciting world of website development and DSA. When I'm not deciphering complex algorithms or tweaking user interfaces, I'm having fun and living life one line of code at a time. After all, surviving college and learning DSA is an adventure in itself!
 </h5>
 
 ### Skills
 - **Frontend Development:** Bringing web pages to life with clean, responsive design and interactive features.
-- **Data Structures & Algorithms (DSA):** Tackling puzzles and improving problem-solving skills—because every bug is just an opportunity in disguise!
+- **Data Structures & Algorithms (DSA):** Tackling puzzles and improving problem-solving skills, because every bug is just an opportunity in disguise!
 
 ### Currently Learning
 - **DSA:** Leveling up my coding abilities one algorithm at a time.
@@ -74,10 +74,6 @@ Thanks for stopping by, and feel free to explore my repositories. Let's build so
   <a href="www.linkedin.com/in/joy-sarkar-169059306"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="discordapp.com/users/1352525497996673061"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/joysarkar83/joysarkar83/output/snake.svg" alt="Snake animation" />
 
 ###
 
