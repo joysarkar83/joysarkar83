@@ -2,6 +2,27 @@
 
 <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5MDgyMzYsIm5iZiI6MTc0NTkwNzkzNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI5VDA2MjUzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwOGEyYjg5NjcxNmYwNmI2MTRiODk5NzExYjNjMTU2MzgzNmNhOTJmZWE3YTdhZTE5YTFiYWM1ZTE3NDI3MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pYZ_fg5M3gI5RGIwGVFnZXO2duV5mLgd97VIxT5eu_Q">
 
+###
+
+# <h2>Hi there, I'm Joy Sarkar 👋</h2>
+
+<h3>A 20 years old aspiring software developer, who's currently pursuing B.Tech in Electronics & Communication Engineering in IIIT Naya Raipur.</h3>
+
+<h3>
+I'm a curious coder on a journey through college life while diving deep into the exciting world of website development and DSA. When I'm not deciphering complex algorithms or tweaking user interfaces, I'm having fun and living life one line of code at a time. After all, **surviving college and learning DSA** is an adventure in itself!
+</h3>
+
+### Skills
+- **Frontend Development:** Bringing web pages to life with clean, responsive design and interactive features.
+- **Data Structures & Algorithms (DSA):** Tackling puzzles and improving problem-solving skills—because every bug is just an opportunity in disguise!
+
+### Currently Learning
+- **DSA:** Leveling up my coding abilities one algorithm at a time.
+- **College Adventures:** Balancing studies, projects, and the art of finding chai stalls with the best vibes.
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for stopping by, and feel free to explore my repositories. Let's build something awesome together! 🚀
 
 ###
 
@@ -53,6 +74,10 @@
   <a href="www.linkedin.com/in/joy-sarkar-169059306"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="discordapp.com/users/1352525497996673061"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/joysarkar83/joysarkar83/output/snake.svg" alt="Snake animation" />
 
 ###
 
