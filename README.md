@@ -6,11 +6,11 @@
 
 # <h2>Hi there, I'm Joy Sarkar 👋</h2>
 
-<h3>A 20 years old aspiring software developer, who's currently pursuing B.Tech in Electronics & Communication Engineering in IIIT Naya Raipur.</h3>
+<h4>A 20 years old aspiring software developer, who's currently pursuing B.Tech in Electronics & Communication Engineering in IIIT Naya Raipur.</h4>
 
-<h3>
+<h5>
 I'm a curious coder on a journey through college life while diving deep into the exciting world of website development and DSA. When I'm not deciphering complex algorithms or tweaking user interfaces, I'm having fun and living life one line of code at a time. After all, **surviving college and learning DSA** is an adventure in itself!
-</h3>
+</h5>
 
 ### Skills
 - **Frontend Development:** Bringing web pages to life with clean, responsive design and interactive features.
