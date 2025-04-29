@@ -72,7 +72,7 @@ Thanks for stopping by, and feel free to explore my repositories. Let's build so
 <h2>Connect here:</h2>
 <div align="left">
   <a href="www.linkedin.com/in/joy-sarkar-169059306"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="discordapp.com/users/1352525497996673061"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://discordapp.com/users/1352525497996673061"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
 
 ###
