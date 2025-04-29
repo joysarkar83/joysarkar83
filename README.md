@@ -18,7 +18,7 @@ I'm a curious coder on a journey through college life while diving deep into the
 
 ### Currently Learning
 - **DSA:** Leveling up my coding abilities one algorithm at a time.
-- **College Adventures:** Balancing studies, projects, and the art of finding chai stalls with the best vibes.
+- **Surviving** Balancing studies, projects, and the art of finding chai stalls with the best vibes.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
