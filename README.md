@@ -1,8 +1,6 @@
 ###
 
-<video width="100%" autoplay loop>
-  <source src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif">
-</video>
+<image src="https://pin.it/32l2qmwzY" width="100%">
 
 ###
 
